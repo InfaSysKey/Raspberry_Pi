@@ -7,9 +7,17 @@
 
 ## ¿Qué es lo que vas a encontrar en este manual?
 --------------------------------------------------
-En este manual encontraras los primeros pasos para poder trabajar con ella, que van desde:
+**En este manual encontraras los primeros pasos para poder trabajar con ella, que van desde:**
 
-  -Instalacion y configuración del Sistema Operativo.
-  -Instalacion y configuración de Adaptador de Red.
-  -Instalación y configuración  de la camara.
-  -Instlacion y configuración de NFC (Near field communication).
+  - Instalacion y configuración del Sistema Operativo.
+  - Instalacion y configuración de Adaptador de Red.
+  - Instalación y configuración  de la camara.
+  - Instlacion y configuración de NFC (Near field communication).
+  
+  **Qué vas a aprender:**
+
+  - Como el formato Markdown hace la edición más fácil.
+  - Como Markdown se diferencia del formateo tradicional.
+  - Como utilizar Markdown para dar formato a tu texto.
+  - Como GitHub hace una interpretación automática de Markdown.
+  - Como aplicar las características Markdown únicas de GitHub.
