@@ -14,10 +14,3 @@
   - Instalación y configuración  de la camara.
   - Instlacion y configuración de NFC (Near field communication).
   
-  **Qué vas a aprender:**
-
-  - Como el formato Markdown hace la edición más fácil.
-  - Como Markdown se diferencia del formateo tradicional.
-  - Como utilizar Markdown para dar formato a tu texto.
-  - Como GitHub hace una interpretación automática de Markdown.
-  - Como aplicar las características Markdown únicas de GitHub.
