@@ -13,4 +13,6 @@
   - Instalacion y configuración de Adaptador de Red.
   - Instalación y configuración  de la camara.
   - Instlacion y configuración de NFC (Near field communication).
-  
+ 
+## Copyright
+**Licencia Open Source . InfaSysKey 2018
